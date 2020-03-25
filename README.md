@@ -4,7 +4,7 @@
 ![alt text](https://i.ytimg.com/vi/XXGG39bHQi4/maxresdefault.jpg)
 
 
-## Guided order 
+## Guided Order of Papers
 
 https://github.com/modulabs/Deep-Learning-Papers-Reading-Roadmap
 
@@ -12,6 +12,6 @@ https://github.com/modulabs/Deep-Learning-Papers-Reading-Roadmap
 ## Each folder contains
 
 
-### Original Paper
+#### >> Original Paper
 
-### Key Notes & Diagrams
+#### >> Key Notes & Diagrams
