@@ -1,4 +1,4 @@
-# Machine Learning Research Papers Summaries
+# Machine Learning Research Paper Summaries
 
 
 ![alt text](https://i.ytimg.com/vi/XXGG39bHQi4/maxresdefault.jpg)
@@ -12,6 +12,6 @@ https://github.com/modulabs/Deep-Learning-Papers-Reading-Roadmap
 ## Each folder contains
 
 
-(1) Original Paper
+### Original Paper
 
-(2) Key Notes & Diagrams
+### Key Notes & Diagrams
