@@ -9,9 +9,7 @@
 https://github.com/modulabs/Deep-Learning-Papers-Reading-Roadmap
 
 
-## Each folder contains
+## Contents
 
-
-#### >> Original Paper
-
-#### >> Key Notes & Diagrams
+- Each category folder contains topic folders of related research. 
+- Each topic folder contains (1) the Original Paper and (2) Key Notes & Diagrams
